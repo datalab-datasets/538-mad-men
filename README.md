@@ -1,6 +1,6 @@
 # Mad Men
 
-Copied from `https://github.com/fivethirtyeight/data`. 
+Copied from https://github.com/fivethirtyeight/data. 
 
 This directory contains the data behind the story [‘Mad Men’ Is Ending. What’s Next For The Cast?](http://fivethirtyeight.com/datalab/mad-men-is-ending-whats-next-for-the-cast/)
 
